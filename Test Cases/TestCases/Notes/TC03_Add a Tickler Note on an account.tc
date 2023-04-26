@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Add a Tickler Note on an account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9af3b3c2-6db2-4ef4-ae9c-8ac560c9f52e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>259b3aa8-c9eb-4d24-b431-25e0963631c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac6dbc1c-7599-48e3-8fda-2f2496a8a630</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Notes has been created'</defaultValue>
+      <description></description>
+      <id>259b3aa8-c9eb-4d24-b431-25e0963631c4</id>
+      <masked>false</masked>
+      <name>comments</name>
+   </variable>
+   <variable>
+      <defaultValue>'ID card Issue'</defaultValue>
+      <description></description>
+      <id>ac6dbc1c-7599-48e3-8fda-2f2496a8a630</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

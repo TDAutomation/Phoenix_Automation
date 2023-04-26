@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Place a Hold on a Personal Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f1af157-04bd-4c03-99fa-0fe95415c9a9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80b00b54-458a-49b7-bf8a-81a0d22e2bdf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'200509311701'</defaultValue>
+      <description></description>
+      <id>80b00b54-458a-49b7-bf8a-81a0d22e2bdf</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>from_AccountINformation</name>
+   <tag></tag>
+   <locator>(//ComboBox[@ClassName=\&quot;ComboBox\&quot;])[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Name</name>
+      <type>Main</type>
+      <value>Reference No:</value>
+      <webElementGuid>41c41bc8-f91e-46db-b86b-c42569ea0c3c</webElementGuid>
+   </properties>
+</WindowsElementEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Button_AutoTransfer_New</name>
+   <tag></tag>
+   <locator>New...</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>(//Button[@ClassName=&quot;Button&quot;])[2]</value>
+      <webElementGuid>80ab6165-dd99-403b-9889-e086a1e7d489</webElementGuid>
+   </properties>
+</WindowsElementEntity>

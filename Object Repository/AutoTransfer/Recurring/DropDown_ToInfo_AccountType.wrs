@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_ToInfo_AccountType</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/ComboBox[2]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Pane[3]/Window[1]/ComboBox[2]</value>
+      <webElementGuid>a1fbe9a1-320d-4a64-ba0a-7bce6fd5189b</webElementGuid>
+   </properties>
+</WindowsElementEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>AccountTransfer_New_Dropdown</name>
+   <tag></tag>
+   <locator>2</locator>
+   <locatorStrategy>ID</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>childId</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>47a0f453-523e-4089-92ad-267f2e11c0c5</webElementGuid>
+   </properties>
+</WindowsElementEntity>

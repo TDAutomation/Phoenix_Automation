@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>StopCheque</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c7ae6ae5-96ac-4ee4-8a8a-3f8eb15024e0</testSuiteGuid>
+   <testCaseLink>
+      <guid>e4067cb5-958f-444e-909c-2640e82d0f2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCases/Stop Cheques/TC05_Place a Stop on a Personal Cheque</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>440585c1-1ba0-4796-b41e-cd072e5c1e3c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a286655b-8ab9-4953-8eb0-ccf71a880ed9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9f05cbf3-2f8c-4424-bca9-35c21d5a07d4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ba32e53-706c-4cca-9706-7c308f83cf88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>46fb292a-40fc-449a-86cd-5a1b0b52e805</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c0d6a89-d18a-4316-bb5f-b448d2014a1f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCases/Stop Cheques/TC06_Place a Hold on a Personal Account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>80b00b54-458a-49b7-bf8a-81a0d22e2bdf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Remove a Restriction from a Non-Personal Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2d3fa70-7040-4554-9745-65dfa46574f8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daf0c10c-c023-4292-bb86-90a9f9a8d874</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'940802940501'</defaultValue>
+      <description></description>
+      <id>daf0c10c-c023-4292-bb86-90a9f9a8d874</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+</TestCaseEntity>

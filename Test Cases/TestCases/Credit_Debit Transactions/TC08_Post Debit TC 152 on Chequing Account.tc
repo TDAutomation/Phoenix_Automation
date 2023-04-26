@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Post Debit TC 152 on Chequing Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88ae2b39-2efe-4bb2-ab74-32738afdad50</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2939718f-03db-4451-ad14-7733e0bebf12</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03d34765-1318-45fe-b963-6822ceca10d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13f27356-d721-47e7-8cb7-51a4b1780afe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66e31c6c-6fa1-49f0-aa57-06fc8e3e29a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'250506081301'</defaultValue>
+      <description></description>
+      <id>2939718f-03db-4451-ad14-7733e0bebf12</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'152'</defaultValue>
+      <description></description>
+      <id>03d34765-1318-45fe-b963-6822ceca10d3</id>
+      <masked>false</masked>
+      <name>code</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>13f27356-d721-47e7-8cb7-51a4b1780afe</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teller Withdrawal'</defaultValue>
+      <description></description>
+      <id>66e31c6c-6fa1-49f0-aa57-06fc8e3e29a0</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

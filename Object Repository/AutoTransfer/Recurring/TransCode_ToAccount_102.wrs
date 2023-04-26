@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TransCode_ToAccount_102</name>
+   <tag></tag>
+   <locator>102 - Transfer Deposit</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

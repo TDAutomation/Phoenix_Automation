@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_LayOut</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/ComboBox[2]
+</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

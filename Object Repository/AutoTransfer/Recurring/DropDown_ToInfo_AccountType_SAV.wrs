@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_ToInfo_AccountType_SAV</name>
+   <tag></tag>
+   <locator>CHQ</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

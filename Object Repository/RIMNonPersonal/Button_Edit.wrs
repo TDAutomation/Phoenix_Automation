@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Button_Edit</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/Button[3]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

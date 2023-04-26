@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_CycleCode_05</name>
+   <tag></tag>
+   <locator>005 - MONTHLY, ON 5TH</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

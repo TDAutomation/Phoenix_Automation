@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TexBox_FromAccount_AccountNumber</name>
+   <tag></tag>
+   <locator>42.465588</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</WindowsElementEntity>

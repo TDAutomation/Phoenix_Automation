@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TextBox_ToAccountNumber</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/Edit[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Pane[3]/Window[1]/Edit[1]</value>
+      <webElementGuid>6f3a678c-44db-463f-9c52-31c77f91b94d</webElementGuid>
+   </properties>
+</WindowsElementEntity>
