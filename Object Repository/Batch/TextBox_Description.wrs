@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TextBox_Description</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/Edit[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ID</name>
+      <type>Main</type>
+      <value>42.724056</value>
+      <webElementGuid>63dd4f92-2ba1-4b45-b494-c0e841f29ba8</webElementGuid>
+   </properties>
+</WindowsElementEntity>

@@ -15,7 +15,7 @@
       <guid>05f46292-5f31-4b74-9ddd-bf3c60cebfa5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Credit_Debit Transactions/TC07_Post Credit TC 101 on Commercial Account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Credit_Debit Transactions/TC07_Post Credit TC 101 on Commercial Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -40,7 +40,7 @@
       <guid>a570faeb-0ed8-479a-84e7-5e019bb8abaf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Credit_Debit Transactions/TC08_Post Debit TC 152 on Chequing Account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Credit_Debit Transactions/TC08_Post Debit TC 152 on Chequing Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

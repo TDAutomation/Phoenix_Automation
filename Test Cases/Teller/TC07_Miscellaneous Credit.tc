@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Miscellaneous Credit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4c35359-1a9f-41ff-9178-53e03f1d3998</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e433a68f-d5a8-4217-8e6b-30ad6e06d3a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'500'</defaultValue>
+      <description></description>
+      <id>e433a68f-d5a8-4217-8e6b-30ad6e06d3a6</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

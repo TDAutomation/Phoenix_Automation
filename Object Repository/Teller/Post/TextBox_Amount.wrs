@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TextBox_Amount</name>
+   <tag></tag>
+   <locator>//Window/Pane[3]/Window[1]/Document[6]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

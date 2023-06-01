@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Withdrawal on Savings Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73a5b5e9-93bf-439a-a0c2-068f50bc6e9e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51685379-daee-466d-8eec-9781fab8b874</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>51685379-daee-466d-8eec-9781fab8b874</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

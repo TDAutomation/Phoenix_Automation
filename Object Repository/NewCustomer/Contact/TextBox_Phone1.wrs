@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TextBox_Phone1</name>
+   <tag></tag>
+   <locator>4310</locator>
+   <locatorStrategy>ACCESSIBILITY_ID</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Pane[3]/Window[1]/Edit[1]</value>
+      <webElementGuid>1602d3aa-d179-49c5-bdba-e01a7bf27a67</webElementGuid>
+   </properties>
+</WindowsElementEntity>

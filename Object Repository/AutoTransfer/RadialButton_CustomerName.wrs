@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>RadialButton_CustomerName</name>
+   <tag></tag>
+   <locator>Customer Name</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

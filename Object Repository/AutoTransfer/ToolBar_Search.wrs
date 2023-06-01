@@ -3,8 +3,8 @@
    <description></description>
    <name>ToolBar_Search</name>
    <tag></tag>
-   <locator>16401</locator>
-   <locatorStrategy>ACCESSIBILITY_ID</locatorStrategy>
+   <locator>//Window/Pane[1]/Pane[19]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

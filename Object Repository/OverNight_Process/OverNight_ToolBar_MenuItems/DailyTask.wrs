@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DailyTask</name>
+   <tag></tag>
+   <locator>//Window/Pane[1]/Pane[11]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Sell Managers Cheque with Cash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdbac501-0c20-420c-8ec2-d14412040ed2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b3a7152-5d8f-4932-a774-41b92a578632</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'500'</defaultValue>
+      <description></description>
+      <id>7b3a7152-5d8f-4932-a774-41b92a578632</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

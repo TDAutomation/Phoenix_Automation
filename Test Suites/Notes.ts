@@ -15,7 +15,7 @@
       <guid>1c986962-7c72-40d4-b2c8-2729e8252300</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Notes/TC03_Add a Tickler Note on an account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Notes/TC03_Add a Tickler Note on an account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>53ba639d-bc4b-422f-998a-d6a9d1b33680</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Notes/TC04_Edit an existing note</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Notes/TC04_Edit an existing note</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

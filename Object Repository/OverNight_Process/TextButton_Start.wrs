@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TextButton_Start</name>
+   <tag></tag>
+   <locator>Start</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

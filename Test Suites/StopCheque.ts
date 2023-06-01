@@ -15,7 +15,7 @@
       <guid>e4067cb5-958f-444e-909c-2640e82d0f2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Stop Cheques/TC05_Place a Stop on a Personal Cheque</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Stop Cheques/TC05_Place a Stop on a Personal Cheque</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -52,7 +52,7 @@
       <guid>9c0d6a89-d18a-4316-bb5f-b448d2014a1f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Stop Cheques/TC06_Place a Hold on a Personal Account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Stop Cheques/TC06_Place a Hold on a Personal Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Button_Batch Items_New</name>
+   <tag></tag>
+   <locator>4121</locator>
+   <locatorStrategy>ACCESSIBILITY_ID</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Pane[3]/Window[1]/Button[2]</value>
+      <webElementGuid>2f117d49-c90f-4d30-bb8e-bbc775a90c8b</webElementGuid>
+   </properties>
+</WindowsElementEntity>

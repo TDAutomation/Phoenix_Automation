@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_AcccountType_PL</name>
+   <tag></tag>
+   <locator>PL</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

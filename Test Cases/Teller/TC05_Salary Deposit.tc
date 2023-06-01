@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Salary Deposit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e44b610e-cf2a-4147-a158-bc322dd04195</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec2f6f78-861e-4b62-b734-0426d2acd94b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'500'</defaultValue>
+      <description></description>
+      <id>ec2f6f78-861e-4b62-b734-0426d2acd94b</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

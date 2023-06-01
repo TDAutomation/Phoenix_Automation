@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>copi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5da2cf86-deef-4a63-a1f6-dea93816c1f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>374df33f-d472-471b-ac66-1a5ee363c7c9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>160b6f99-0d6a-4aee-b7f1-b1ce007aa852</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9bb8ae19-46e8-4c04-8623-2e063fb4ce50</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'#4216'</defaultValue>
+      <description></description>
+      <id>374df33f-d472-471b-ac66-1a5ee363c7c9</id>
+      <masked>false</masked>
+      <name>popup1</name>
+   </variable>
+   <variable>
+      <defaultValue>'#251'</defaultValue>
+      <description></description>
+      <id>160b6f99-0d6a-4aee-b7f1-b1ce007aa852</id>
+      <masked>false</masked>
+      <name>popup2</name>
+   </variable>
+   <variable>
+      <defaultValue>'#4951'</defaultValue>
+      <description></description>
+      <id>9bb8ae19-46e8-4c04-8623-2e063fb4ce50</id>
+      <masked>false</masked>
+      <name>popup3</name>
+   </variable>
+</TestCaseEntity>

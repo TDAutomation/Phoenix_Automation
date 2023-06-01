@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Miscellaneous Debit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>786e9c08-d077-4bad-b5a3-6e3aa065316f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f8ea612-ed8f-4a28-8d29-0d7252e04e91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1050\t'</defaultValue>
+      <description></description>
+      <id>6f8ea612-ed8f-4a28-8d29-0d7252e04e91</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

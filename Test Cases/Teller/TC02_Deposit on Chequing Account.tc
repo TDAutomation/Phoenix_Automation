@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Deposit on Chequing Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4e22095-2c8f-45bc-835e-ad8d454aebde</testCaseGuid>
+</TestCaseEntity>

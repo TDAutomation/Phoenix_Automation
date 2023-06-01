@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>PrintForms_Button_Skip2</name>
+   <tag></tag>
+   <locator>Skip</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

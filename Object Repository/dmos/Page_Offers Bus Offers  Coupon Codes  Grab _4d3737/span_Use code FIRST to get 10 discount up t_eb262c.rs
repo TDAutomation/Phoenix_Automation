@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Use code FIRST to get 10 discount up t_eb262c</name>
+   <tag></tag>
+   <elementGuidId>89ada228-8b22-4f4c-afcc-778e481b7362</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offerTileDialogue']/div[2]/div[2]/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.TNCTermsliText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>975f6e5d-8066-476f-88e7-4c2b4ec4c6bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TNCTermsliText</value>
+      <webElementGuid>b32f36c0-dfd5-4104-8747-0381db7ffebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use code FIRST to get 10% discount up to Rs 150 + Rs 100 cashback on bus ticket bookings.</value>
+      <webElementGuid>46f24e73-18c2-43e8-b3d3-744478d00166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offerTileDialogue&quot;)/div[2]/div[@class=&quot;TNC&quot;]/div[@class=&quot;OfferDiscriptionTitle&quot;]/ul[@class=&quot;terms&quot;]/li[@class=&quot;clearfix&quot;]/span[@class=&quot;TNCTermsliText&quot;]</value>
+      <webElementGuid>dcc55dfe-9428-43f4-b9b3-a088db910f96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offerTileDialogue']/div[2]/div[2]/div/ul/li/span</value>
+      <webElementGuid>bc4821ff-684b-4d54-bf35-77f9cf5d106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH HOTELS'])[1]/following::span[1]</value>
+      <webElementGuid>7ca97f77-e0b1-46b6-b0c2-cd21d65560be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH'])[1]/following::span[1]</value>
+      <webElementGuid>76edd105-ae2d-4a8b-8e9c-c3fcca75b0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer available only for first time users..'])[1]/preceding::span[1]</value>
+      <webElementGuid>34c6aa9e-5448-4683-af4f-d1b5513ab1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer is applicable for a minimum ticket value of Rs 200.'])[1]/preceding::span[2]</value>
+      <webElementGuid>cb38a2ae-0d57-46e4-8041-6e8a64d002b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use code FIRST to get 10% discount up to Rs 150 + Rs 100 cashback on bus ticket bookings.']/parent::*</value>
+      <webElementGuid>5f56a7ed-f6f3-4cce-bfa6-7b60064e9dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/span</value>
+      <webElementGuid>55c125d5-78d1-42e4-b0d1-4cae2c41d4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Use code FIRST to get 10% discount up to Rs 150 + Rs 100 cashback on bus ticket bookings.' or . = 'Use code FIRST to get 10% discount up to Rs 150 + Rs 100 cashback on bus ticket bookings.')]</value>
+      <webElementGuid>4d27b95c-080b-45a0-8985-8f8079d2f1d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

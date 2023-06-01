@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TitleBar</name>
+   <tag></tag>
+   <locator>//Window/Window[1]/TitleBar[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

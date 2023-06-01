@@ -3,6 +3,6 @@
    <description></description>
    <name>DropDown_ToInfo_AccountType_SAV</name>
    <tag></tag>
-   <locator>CHQ</locator>
+   <locator>SAV</locator>
    <locatorStrategy>NAME</locatorStrategy>
 </WindowsElementEntity>

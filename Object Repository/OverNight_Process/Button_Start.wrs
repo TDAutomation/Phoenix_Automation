@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Button_Start</name>
+   <tag></tag>
+   <locator>Start</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Window[1]/Edit[2]</value>
+      <webElementGuid>cf294f48-a6f3-44a7-a04a-67686b11a227</webElementGuid>
+   </properties>
+</WindowsElementEntity>

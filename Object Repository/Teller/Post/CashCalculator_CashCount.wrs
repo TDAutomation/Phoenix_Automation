@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>CashCalculator_CashCount</name>
+   <tag></tag>
+   <locator>//Window/Window[1]/Edit[2]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

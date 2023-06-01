@@ -66,7 +66,7 @@ driver.findElementByAccessibilityId("16401").click()
 
 //driver.findElement(By.xpath('(//Pane[@ClassName="Gupta:Pict"])[2]')).click()
 
-//Windows.click(findWindowsObject('ToolBar_MenuItems/Search'))
+//Windows.click(findWindowsObject('AccountProcessing_ToolBar_MenuItems/Search'))
 
 //Windows.click(findWindowsObject('Object Repository/AppLaunch_1/Button'))
 //Windows.getText(findWindowsObject('Object Repository/AppLaunch_1/Text'))

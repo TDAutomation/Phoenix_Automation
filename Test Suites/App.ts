@@ -15,21 +15,21 @@
       <guid>44805d44-a8c1-45ee-b867-11fb2d78a27e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Walkthrough/ClosingActiveAutoTransfer</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Walkthrough/ClosingActiveAutoTransfer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e870f51b-75fc-4a4c-96ea-0e0bbda0633a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Walkthrough/StandardMessage</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Walkthrough/StandardMessage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9a539eff-9b1f-4fca-9da4-a921eecbde47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Walkthrough/AccountDetails</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Walkthrough/AccountDetails</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

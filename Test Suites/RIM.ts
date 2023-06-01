@@ -15,7 +15,7 @@
       <guid>c08e30e3-ee3a-4993-94d1-69c127f0f166</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/RIM - Non-Personal/TC09_Amend the Statement Cycle on a Non-Personal Account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/RIM - Non-Personal/TC09_Amend the Statement Cycle on a Non-Personal Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -28,7 +28,7 @@
       <guid>333b727a-5417-4f7c-8161-09cc70d58ad1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/RIM - Non-Personal/TC10_Remove a Restriction from a Non-Personal Account</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/RIM - Non-Personal/TC10_Remove a Restriction from a Non-Personal Account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

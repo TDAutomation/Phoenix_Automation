@@ -22,11 +22,11 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 
 //Windows.startApplicationWithTitle('P:\\exe\\ktonline.exe', 'phoenix')
-//Windows.setText(findWindowsObject('Object Repository/AutoTransfer/Text_UserID'), 'UAT075')
-//Windows.setText(findWindowsObject('Object Repository/AutoTransfer/Text_Password'), 'test0075')
-//Windows.click(findWindowsObject('Object Repository/AutoTransfer/Button_Logon'))
-//Windows.click(findWindowsObject('Object Repository/AutoTransfer/Button_OK'))
-//Windows.click(findWindowsObject('Object Repository/AutoTransfer/Button_OK'))
+//Windows.setText(findWindowsObject('Object Repository/Text_UserID'), 'UAT075')
+//Windows.setText(findWindowsObject('Object Repository/Text_Password'), 'test0075')
+//Windows.click(findWindowsObject('Object Repository/Button_Logon'))
+//Windows.click(findWindowsObject('Object Repository/Button_OK'))
+//Windows.click(findWindowsObject('Object Repository/Button_OK'))
 //Windows.switchToWindowTitle('Republic Bank Limited - Business Support Services - Account Processing')
 CustomKeywords.'desktop.phoenix.loginbrowesr'('UAT075', 'test0075')
 

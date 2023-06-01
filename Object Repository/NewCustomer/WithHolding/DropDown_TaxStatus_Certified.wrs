@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DropDown_TaxStatus_Certified</name>
+   <tag></tag>
+   <locator>Certified</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

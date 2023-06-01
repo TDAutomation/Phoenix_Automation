@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Teller_Regression</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>416516ee-66bc-4c0b-b614-a960845df467</testSuiteGuid>
+   <testCaseLink>
+      <guid>d789eac5-db4e-48be-bf37-0d3e1c9b9cf7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Teller/TC04_Sell Managers Cheque with Cash</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7b3a7152-5d8f-4932-a774-41b92a578632</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5003dbd5-4943-41ed-acd8-15d402ddf5be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Teller/TC05_Salary Deposit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ec2f6f78-861e-4b62-b734-0426d2acd94b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5837e10b-069d-4439-ae9f-fc9befad7fea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Teller/TC06_Deposit with Cash and Cheques</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d934c4a9-bb62-4b05-984f-9c89277c6cfa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Teller/TC07_Miscellaneous Credit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e433a68f-d5a8-4217-8e6b-30ad6e06d3a6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ca00cb7-266c-47c3-81d8-f912041f5932</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Teller/TC08_Miscellaneous Debit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f8ea612-ed8f-4a28-8d29-0d7252e04e91</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

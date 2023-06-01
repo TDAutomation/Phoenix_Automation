@@ -15,14 +15,14 @@
       <guid>dcd8d854-007f-49ec-9ddf-72a82e033e1e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Walkthrough/ClosingActiveAutoTransfer</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Walkthrough/ClosingActiveAutoTransfer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>125507c1-6969-4794-99b5-444edaab5f68</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCases/Walkthrough/AccountDetails</testCaseId>
+      <testCaseId>Test Cases/AccountProcessing/TestCases/Walkthrough/AccountDetails</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

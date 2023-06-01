@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Button_PhoenixQuestion4216_Yes</name>
+   <tag></tag>
+   <locator>Yes</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>XPATH</name>
+      <type>Main</type>
+      <value>//Window/Window[1]/Window[1]/Button[1]</value>
+      <webElementGuid>d90f675a-2678-4c3c-9083-2a0aa041eca2</webElementGuid>
+   </properties>
+</WindowsElementEntity>
