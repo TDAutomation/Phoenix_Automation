@@ -93,13 +93,13 @@ public class phoenix {
 	@Keyword
 	def loginktbatch(String user, String pass) {
 
-		String winAppPath = 'P://bat//Nightly.bat'
+		//String winAppPath = 'P://bat//Nightly.bat'
+//
+		//ProcessBuilder build = new ProcessBuilder(winAppPath).inheritIO()
 
-		ProcessBuilder build = new ProcessBuilder(winAppPath).inheritIO()
+		//Process run = build.start()
 
-		Process run = build.start()
-
-		WebUI.delay(5)
+		//WebUI.delay(5)
 
 		Windows.startApplicationWithTitle('P:\\exe\\ktbatch.exe', 'Phoenix')
 
