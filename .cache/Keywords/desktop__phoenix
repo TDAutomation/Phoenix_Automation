@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "522229C31FD3E95B8D6ED9F9E9C88601",
+  "keywordFileContentHash": "F57ED4AFD19D7F3F94E89CDC43D69505",
   "keywordClasses": [
     {
       "name": "desktop.phoenix",
@@ -33,13 +33,11 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "logout",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "autoTransfer",
@@ -70,8 +68,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "loginktbatch",
@@ -102,8 +99,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "loginktbatch2",
@@ -134,8 +130,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "loginktTeller",
@@ -166,11 +161,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
